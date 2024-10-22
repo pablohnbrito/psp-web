@@ -1,1 +1,1 @@
-# psp-web
+# Projeto Sonic - Web App
